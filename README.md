@@ -2,13 +2,13 @@
 Desafio da formação de Python para Data Science da ALURA
 
 
-# 🛍️ Análise de Lojas - Projeto de Data Science
+#  Análise de Lojas - Projeto de Data Science
 
 Este projeto tem como objetivo analisar dados de vendas de quatro lojas distintas para auxiliar o Senhor João na decisão estratégica sobre qual loja vender. A análise abrange aspectos financeiros, operacionais e de satisfação do cliente, utilizando técnicas de exploração de dados e visualizações gráficas.
 
 ---
 
-## 🎯 Propósito da Análise
+##  Propósito da Análise
 
 O objetivo é analisar os seguintes aspectos da empresa:
 
@@ -21,15 +21,15 @@ O objetivo é analisar os seguintes aspectos da empresa:
 
 --
 
-# 📉 Exemplos de Gráficos e Insights
+#  Exemplos de Gráficos e Insights
 
 A analise gerou visualizações como:
 
-- 📊 **Gráfico de faturamento por loja**
-- 📦 **Categorias de produtos mais vendidos**
-- ⭐ **Avaliação média dos clientes por loja**
-- 🚚 **Frete médio por loja**
-- 🌍 **Mapa de densidade das vendas no Brasil**
+**Gráfico de faturamento por loja**
+**Categorias de produtos mais vendidos**
+**Avaliação média dos clientes por loja**
+**Frete médio por loja**
+**Mapa de densidade das vendas no Brasil**
 
 **Principais insights:**
 
@@ -40,7 +40,7 @@ A analise gerou visualizações como:
 
 ---
 
-## ⚙️ Como Executar o Notebook
+##  Como Executar o Notebook
 
 git clone https://github.com/icaroandri/Desafio-Alura-Store.git
 
@@ -55,7 +55,7 @@ git clone https://github.com/seu-usuario/analise-lojas.git
 pip install pandas matplotlib seaborn geopandas
 ```
 
-## 👤 Autor
+##  Autor
 
 Projeto desenvolvido por Ícaro Andri.  
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/icaro-andri).
